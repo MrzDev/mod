@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordmod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "swordmod:ruby",
+    "count": 9
+  }
+}

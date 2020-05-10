@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "swordmod:ruby_ore"
+  },
+  "result": "swordmod:ruby",
+  "experience": 0.9,
+  "cookingtime": 100
+}
